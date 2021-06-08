@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav8186
+- 👋 Hi, I’m Vaibhav Thombare.
 - 👀 I’m interested in Ruby, Rails, Rust. 
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on Rails.
